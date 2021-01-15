@@ -1,0 +1,42 @@
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;500;900&display=swap");
+
+/* Header part */
+.fixed-top {
+  background-color: white;
+}
+h1 {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+}
+.slider-section h1 {
+  font-size: 50px;
+}
+.slider-section h1 span {
+  color: #fabe4c;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  color: #363958;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+}
+header {
+  background-color: #fffbf0;
+}
+.bg_of_btn {
+  border: 0;
+  border-radius: 5px;
+  background-color: #a4bc46;
+}
+.man-jacket img {
+  border-radius: 20px;
+  background-color: #f1f1f1;
+}
